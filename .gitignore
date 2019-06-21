@@ -1,5 +1,4 @@
 /.idea/workspace.xml
 /bin/
-
 /vendor/*
 !/vendor/vendor.json

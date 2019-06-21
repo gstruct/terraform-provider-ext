@@ -1,0 +1,7 @@
+build:
+  binary: terraform-provider-ext
+  goos:
+    - darwin
+    - linux
+  goarch:
+    - amd64
