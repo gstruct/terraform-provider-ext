@@ -1,5 +1,7 @@
 build:
   binary: terraform-provider-ext
+  env:
+    - CGO_ENABLED=0
   goos:
     - darwin
     - linux
